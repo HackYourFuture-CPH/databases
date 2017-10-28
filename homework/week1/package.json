@@ -1,0 +1,18 @@
+{
+  "name": "node-sql",
+  "version": "1.0.0",
+  "description": "small experiments to learn how node and mysql work together",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "mysql"
+  ],
+  "author": "Jawad Khawaja",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.15.0"
+  }
+}
