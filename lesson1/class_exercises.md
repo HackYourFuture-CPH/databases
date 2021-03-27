@@ -12,4 +12,4 @@ Implement the following queries:
 8. Find all tasks that include `SQL` either on the title or on the description;
 9. Find the title of all tasks that the user `Maryrose` is responsible for;
 10. Find how many tasks each user is responsible for;
-11. Find how many tasks with a `status=completed` each user is responsible for;
+11. Find how many tasks with a `status=Done` each user is responsible for;
