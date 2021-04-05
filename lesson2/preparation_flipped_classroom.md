@@ -13,6 +13,12 @@ Since this is a semi flipped classroom, where you prepare the class during the w
  - [Manipulating table entries](https://drive.google.com/file/d/1wcx16QxuG5mbDHZYLbA88E2zjEsu460t/view?usp=sharing).
 
 
+## Readings
+
+- [Falsehoods Programmers Believe About Names](http://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
+- [What is a Database Foreign Key](http://databases.about.com/cs/specificproducts/g/foreignkey.htm)
+
+
 ## Exercise before class
 
 In lesson 1 we used a database where each user was responsible for many tasks, but each task was only assigned to one user.
@@ -33,9 +39,9 @@ Maybe we need to add a table(s) or column(s). Who knows?
 We'll start the class on Sunday by discussing your proposals :)
 
 
-
 ## Checklist
 
 You are ready for Sunday's class if:
  - you have watched the `Class videos`;
+ - you have read the articles under `Readings`;
  - you are ready to present your conclusions about many-to-many relationships.
