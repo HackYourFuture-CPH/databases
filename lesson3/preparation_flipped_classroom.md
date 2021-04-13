@@ -12,6 +12,8 @@ Since this is a semi flipped classroom, where you prepare the class during the w
  - [SQL vs NoSQL or MySQL vs MongoDB](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y)
  - [MongoDB Complete Introduction & Summary](https://www.youtube.com/watch?v=VELru-FCWDM) (up to minute 32)
 
+The last video is not totally up to date, the configuration of the mongo atlas looks a bit different, but it should work fine still. And the good part is that it no longer requires a credit card at all to use mongo atlas.
+
 And if you want to experiment more with mongoDB commands, you can check [these tutorials](https://www.tutorialspoint.com/mongodb/index.htm).
 
 ## Readings
