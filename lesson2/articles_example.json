@@ -1,11 +1,11 @@
 [{
 	"id": 1,
 	"authors": [{
-			"id": 42,
+			"id": 1,
 			"name": "James Smith"
 		},
 		{
-			"id": 12,
+			"id": 2,
 			"name": "Jane Jones"
 		}
 	],
@@ -16,11 +16,11 @@
 {
 	"id": 2,
 	"authors": [{
-			"id": 5,
+			"id": 3,
 			"name": "Aliya Awad"
 		},
 		{
-			"id": 12,
+			"id": 4,
 			"name": "Igor Vladimir"
 		}
 	],
@@ -31,11 +31,11 @@
 {
 	"id": 3,
 	"authors": [{
-			"id": 17,
+			"id": 2,
 			"name": "Jane Jones"
 		},
 		{
-			"id": 3,
+			"id": 5,
 			"name": "Kim Jensen"
 		}
 	],
