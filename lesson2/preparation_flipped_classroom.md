@@ -9,9 +9,7 @@ We say (semi) flipped classroom, because part of the teaching is still done on t
 
 Since this is a semi flipped classroom, where you prepare the class during the week and then the teaching on Sunday will build on what you prepared, it is **extremely important** that you watch the following videos:
 
- - [Creating and manipulating tables](https://drive.google.com/file/d/1v3p_fE1JqST9sSEOJxhWNRBmZRCN1lEU/view?usp=sharing);
- - [Manipulating table entries](https://drive.google.com/file/d/1wcx16QxuG5mbDHZYLbA88E2zjEsu460t/view?usp=sharing).
-
+ - [Creating/manipulating tables and data entries](https://drive.google.com/file/d/18Agl0r23pepFpXzU35KLOhAoi1RdnUnR/view?usp=sharing).
 
 ## Readings
 
