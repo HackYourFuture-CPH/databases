@@ -6,12 +6,26 @@ Objective: Students should be able to retrieve data from a database table using 
 
 ## Pre-Class Preparation
 
-Before the class you should install MySQL on your computer:
+Before the class you should either install MySQL Workbench on your computer or Docker and MySQL VScode plugin and use MySQL workbench via Docker. The latter option will avoid some installation issues on some of the operating systems.
+
+#1 option - installing MySQL Workbench on your computer:
 
 - Instructions for macOS: [click here](https://www.youtube.com/watch?v=7S_tz1z_5bA&t=290s)
 - Instructions for Windows: [click here](https://www.youtube.com/watch?v=7S_tz1z_5bA&t=588s)
 
-And watch this video: https://youtu.be/geetitV4u3s
+And watch this video: https://youtu.be/geetitV4u3s (please consider that these instructions were created before we added the #2 option)
+
+#2 option - installing Docker and the MySQL VScode plugin:
+
+- Install docker by following the instructions here: https://drive.google.com/file/d/1YE7kIx6NxNHi72VSwh3sN5qMLCAisvJJ/view
+= Install the MySQL VSCode plugin by following the instructions here: https://drive.google.com/file/d/1sxLcPXPN_USOFwDKIESN3Cem2377iGWB/view
+To learn what Docker is, you can read these articles:
+ - https://medium.com/@SaadAAkash/docker-for-dummies-literally-ab3fc6362d5f
+ - https://www.freecodecamp.org/news/docker-simplified-96639a35ff36/
+ 
+Docker is widely used by software developers these days, i’d say it’s been a
+game changer, so it’s good for you if you at least know what it is :slightly_smiling_face:
+
 
 ## Main Topics
 
