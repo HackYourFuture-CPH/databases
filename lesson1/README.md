@@ -6,7 +6,7 @@ Objective: Students should be able to retrieve data from a database table using 
 
 ## Pre-Class Preparation
 
-Before the class you should Docker and MySQL VScode plugin on your computer and use MySQL workbench via Docker. 
+Before the class you should Docker and MySQL VScode plugin on your computer. 
 
 ### Installing Docker and the MySQL VScode plugin:
 
