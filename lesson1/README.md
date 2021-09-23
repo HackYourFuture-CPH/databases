@@ -11,11 +11,13 @@ Before the class you should Docker and MySQL VScode plugin on your computer.
 ### Installing Docker and the MySQL VScode plugin:
 
 - Install docker by following the instructions here: https://drive.google.com/file/d/1YE7kIx6NxNHi72VSwh3sN5qMLCAisvJJ/view
-= Install the MySQL VSCode plugin by following the instructions here: https://drive.google.com/file/d/1sxLcPXPN_USOFwDKIESN3Cem2377iGWB/view
-To learn what Docker is, you can read these articles:
- - https://medium.com/@SaadAAkash/docker-for-dummies-literally-ab3fc6362d5f
- - https://www.freecodecamp.org/news/docker-simplified-96639a35ff36/
- 
+- Install the MySQL VSCode plugin by following the instructions here: https://drive.google.com/file/d/1sxLcPXPN_USOFwDKIESN3Cem2377iGWB/view    
+
+###To learn what Docker is, you can read these articles:     
+- https://medium.com/@SaadAAkash/docker-for-dummies-literally-ab3fc6362d5f    
+- https://www.freecodecamp.org/news/docker-simplified-96639a35ff36/
+
+
 Docker is widely used by software developers these days, i’d say it’s been a
 game changer, so it’s good for you if you at least know what it is :slightly_smiling_face:
 
