@@ -32,7 +32,7 @@ Before Sunday also please do the following exercise, so that we can discuss it i
 You are ready for Sunday's class if:
  - you have installed MySQL and MySQL Workbench;
  - you have watched the `Class videos`;
- - you have created the `hyf_lesson1` database on your computer (the data is [here](https://github.com/HackYourFuture-CPH/databases/blob/master/lesson1/lesson-data.sql));
+ - you have created the `hyf_lesson1` database on your computer (the data is [here](https://github.com/HackYourFuture-CPH/databases/blob/main/lesson1/lesson-data.sql));
  - you have done the `SELECT` exercise.
 
 If you run into trouble completing any of the above, please ask for help in the class channel :)

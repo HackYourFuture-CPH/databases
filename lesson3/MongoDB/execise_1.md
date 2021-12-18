@@ -1,6 +1,6 @@
 # MongoDB Exercise one
 We are using the  database from the lesson 1: 
-https://github.com/babakbandpey/databases/blob/master/lesson1/lesson-data.sql
+https://github.com/babakbandpey/databases/blob/main/lesson1/lesson-data.sql
 
 Export the tables into JSON files using MySQL Workbench
 
