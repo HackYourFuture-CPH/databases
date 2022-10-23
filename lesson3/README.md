@@ -36,31 +36,15 @@ Also the students should watch this video: https://youtu.be/HSt4nlUIF-A
 - [Node MySQL Preparing Queries (automatic escaping)](https://github.com/mysqljs/mysql#preparing-queries)
 - [MySQL SHOW GRANTS](https://dev.mysql.com/doc/refman/8.0/en/show-grants.html)
 
-## Get git ready to work on homework
+<br/>
 
-Using the `hyf-homework` repo. In the terminal run `git status`
+# Homework
 
-If there are changes that have not been committed, figure out what to do with those changes
+## Start the homework
 
-- Should they be committed to another branch?
-- Should they be committed to `master`?
-- Should they be discarded?
+Need to brush up on the homework setup process? Check [this](https://github.com/HackYourFuture-CPH/Git/blob/main/homework_hand_in.md) out before you get into some git confusion!
 
-When you have figured out what to do with the changes and fixed those. Write `git status` again. If it says `nothing to commit, working tree clean`. Then you are ready to create the branch for this weeks homework.
-
-### Creating the branch
-
-Using the `hyf-homework` repo write this command
-
-`git checkout master` - You are now on the `master` branch
-
-`git checkout -b databases-week3`
-
-This will create and checkout the branch so you are ready make commits to it
-
-[This video](https://www.youtube.com/watch?v=XYlgh9hSWtw) can help. On slack use the #git-support channel to ask questions about git
-
-## Homework
+## The task:
 
 For the homework this week we will create the database and queries for an application we will continue working on in the [node js class](https://github.com/HackYourFuture-CPH/node.js).
 
