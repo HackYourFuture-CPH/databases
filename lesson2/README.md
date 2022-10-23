@@ -38,33 +38,15 @@ The students should watch this video before class: https://youtu.be/9hTKUT_SZWU
 - [w3schools tutorial (easy to find how specific commands work)](https://www.w3schools.com/sql/default.asp)
 - [Official MySQL Documentation](https://dev.mysql.com/doc/refman/8.0/en/)
 
-## Get git ready to work on homework
+<br/>
 
-Using the `hyf-homework` repo. In the terminal run `git status`
+# Homework
 
-If there are changes that have not been committed, figure out what to do with those changes
+## Start the homework
 
-- Should they be committed to another branch?
-- Should they be committed to `master`?
-- Should they be discarded?
+Need to brush up on the homework setup process? Check [this](https://github.com/HackYourFuture-CPH/Git/blob/main/homework_hand_in.md) out before you get into some git confusion!
 
-When you have figured out what to do with the changes and fixed those. Write `git status` again. If it says `nothing to commit, working tree clean`. Then you are ready to create the branch for this weeks homework.
-
-### Creating the branch
-
-Using the `hyf-homework` repo write this command
-
-`git checkout master` - You are now on the `master` branch
-
-`git checkout -b databases-week2`
-
-This will create and checkout the branch so you are ready make commits to it
-
-[This video](https://www.youtube.com/watch?v=XYlgh9hSWtw) can help. On slack use the #git-support channel to ask questions about git
-
-## Homework
-
-### Part 1: Working with tasks
+## Part 1: Working with tasks
 
 Write the following sql queries:
 
@@ -77,7 +59,7 @@ Write the following sql queries:
 
 In all the above queries, you choose which is the task that you will modify/delete.
 
-### Part 2: School database
+## Part 2: School database
 
 - Create a new database containing the following tables:
   - **Class**: with the columns: id, name, begins (date), ends (date)
@@ -86,7 +68,7 @@ In all the above queries, you choose which is the task that you will modify/dele
   - Create an index on the name column of the student table.
   - Add a new column to the class table named **status** which can only have the following values: not-started, ongoing, finished (hint: enumerations).
 
-### Part 3: More queries
+## Part 3: More queries
 
 You should do these queries on the database `hyf_lesson2`, which we created last class.
 You can find the data [here](lesson2-data.sql) if you need to create the DB again.
@@ -96,7 +78,7 @@ You can find the data [here](lesson2-data.sql) if you need to create the DB agai
 - Get all the tasks for 'Maryrose Meadows' that were created in september (hint: `month(created)=month_number`)
 - Find how many tasks where created in each month, e.g. how many tasks were created in october, how many tasks were created in november, etc. (hint: use group by)
 
-### Part 4: Creating a database
+## Part 4: Creating a database
 
 Using an entity relationship diagram, design the data model for an application of your choice. This can be anything, previous students have used a small business (with staff, offices, and job titles), a library (with books, genres, racks, members, and a borrowing log), or a farm (with animals, barns, and farmers).
 
