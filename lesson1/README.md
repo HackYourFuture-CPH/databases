@@ -10,8 +10,8 @@ Before the class you should Docker and MySQL VScode plugin on your computer.
 
 ### Installing Docker and the MySQL VScode plugin:
 
-- Install docker by following the instructions here: https://drive.google.com/file/d/1YE7kIx6NxNHi72VSwh3sN5qMLCAisvJJ/view
-- Install the MySQL VSCode plugin by following the instructions here: https://drive.google.com/file/d/1sxLcPXPN_USOFwDKIESN3Cem2377iGWB/view
+- Install docker by following the instructions here: https://drive.google.com/file/d/1zVV9SyqxkHPnieQ3f2gned7JAljnvZtt/view?usp=drive_link
+- Install the MySQL VSCode plugin by following the instructions here: https://drive.google.com/file/d/1FS50CCVUgRAXe9SfS8IMyCY9tFqCXna8/view?usp=drive_link
 
 ### To learn what Docker is, you can read these articles:
 
@@ -54,7 +54,7 @@ game changer, so it’s good for you if you at least know what it is :slightly_s
 
 ## Start the homework
 
-Need to brush up on the homework setup process? Check [this](https://github.com/HackYourFuture-CPH/Git/blob/main/homework_hand_in.md) out before you get into some git confusion!
+Need to brush up on the homework setup process? Check [this](https://github.com/HackYourFuture-CPH/Git/blob/main/homework-submission.md) out before you get into some git confusion!
 
 ## The task:
 
