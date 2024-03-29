@@ -44,7 +44,7 @@ The students should watch this video before class: https://youtu.be/9hTKUT_SZWU
 
 ## Start the homework
 
-Need to brush up on the homework setup process? Check [this](https://github.com/HackYourFuture-CPH/Git/blob/main/homework_hand_in.md) out before you get into some git confusion!
+Need to brush up on the homework setup process? Check [this](https://github.com/HackYourFuture-CPH/Git/blob/main/homework-submission.md) out before you get into some git confusion!
 
 ## Part 1: Working with tasks
 
