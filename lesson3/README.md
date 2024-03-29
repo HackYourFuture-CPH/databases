@@ -119,7 +119,7 @@ Now add a couple of different meals, reservations and reviews with different att
 ## Hand in homework
 
 Need to brush up on the homework hand-in process?<br/>
-Check [this resource](https://github.com/HackYourFuture-CPH/Git/blob/main/homework_hand_in.md) to remember how to hand in the homework correctly!
+Check [this resource](https://github.com/HackYourFuture-CPH/Git/blob/main/homework-submission.md) to remember how to hand in the homework correctly!
 
 <br/>
 
