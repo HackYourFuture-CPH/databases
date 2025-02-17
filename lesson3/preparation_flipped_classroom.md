@@ -18,7 +18,7 @@ And if you want to experiment more with mongoDB commands, you can check [these t
 
 ## Readings
 
-- [The ACID Database Model](https://www.thoughtco.com/the-acid-model-1019731)
+- [ACID Properties with real life examples](https://medium.com/%40tushar.rooks/acid-properties-with-real-life-examples-b83a37667338)
 - [Why you should never use MongoDB](http://www.sarahmei.com/blog/2013/11/11/why-you-should-never-use-mongodb)
 
 
