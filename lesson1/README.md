@@ -10,7 +10,7 @@ Before the class you should Docker and MySQL VScode plugin on your computer.
 
 ### Installing Docker and the MySQL VScode plugin:
 
-- Install docker by following the instructions here: https://drive.google.com/file/d/1zVV9SyqxkHPnieQ3f2gned7JAljnvZtt/view?usp=drive_link
+- Install docker by following the instructions here: https://drive.google.com/file/d/1zVV9SyqxkHPnieQ3f2gned7JAljnvZtt/view?usp=drive_link (You can use the Docker image mysql:latest instead of mysql-server to run a less restrictive MySQL instance. Recommended)
 - Install the MySQL VSCode plugin by following the instructions here: https://drive.google.com/file/d/1FS50CCVUgRAXe9SfS8IMyCY9tFqCXna8/view?usp=drive_link
 
 ### To learn what Docker is, you can read these articles:
