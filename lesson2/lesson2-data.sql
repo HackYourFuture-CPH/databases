@@ -46,6 +46,7 @@ insert into user (id, name, email, phone) values (8, 'Hedy Gerault', 'hgerault7@
 insert into user (id, name, email, phone) values (9, '王秀英', 'wang.xiuying@weebly.com', '891-952-6749');
 insert into user (id, name, email, phone) values (10, 'إلياس', 'elias@github.com', '202-517-6983');
 insert into user (id, name, email, phone) values (11, 'Donald Duck', 'donald@duck.com', NULL);
+insert into user (id, name, email, phone) values (12, 'Landon Fitzgerald', 'fitzgerald@spotify.com', '967-596-8777');
 
 -- Statuses
 insert into status (id, name) values (1, 'Not started');
@@ -138,3 +139,4 @@ insert into user_task (user_id, task_id) values(8, 25);
 insert into user_task (user_id, task_id) values(9, 28);
 insert into user_task (user_id, task_id) values(10, 31);
 insert into user_task (user_id, task_id) values(11, 32);
+insert into user_task (user_id, task_id) values(12, 4);
