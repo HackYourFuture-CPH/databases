@@ -8,7 +8,7 @@ Objective: the students should know how SQL injections happen, and how to define
 
 Please read the following pages that explains the ACID database model:
 
-- [ACID Properties with real life examples](https://medium.com/%40tushar.rooks/acid-properties-with-real-life-examples-b83a37667338)
+- [ACID Transactions + a real example](https://devopedia.org/acid-transactions#)
 - [Why you should never use MongoDB](http://www.sarahmei.com/blog/2013/11/11/why-you-should-never-use-mongodb)
 
 Also the students should watch this video: https://youtu.be/HSt4nlUIF-A
